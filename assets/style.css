@@ -58,3 +58,7 @@ aside {
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
     grid-gap: 2px;
 }
+
+p{
+   word-wrap: break-word;
+}
